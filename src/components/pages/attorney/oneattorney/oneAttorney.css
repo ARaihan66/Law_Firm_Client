@@ -1,0 +1,5 @@
+
+.top-scroll {
+    scroll-behavior: auto !important; /* Override any scroll behavior */
+    overflow-y: auto !important; /* Ensure vertical scrollbar appears */
+  }

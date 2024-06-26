@@ -1,0 +1,13 @@
+.contact-back{
+ background-image: url(../../../assets/contact.jpg);
+  background-repeat: no-repeat;
+  background-position:right ;
+  background-size:cover ;
+  height: 75vh;
+  background-attachment: fixed;  
+}
+.contact-content{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}

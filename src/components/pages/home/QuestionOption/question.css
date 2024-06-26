@@ -1,0 +1,12 @@
+.single-Question-Hover{
+background-color: #000053;
+color: white;
+transition: 0.5s;
+border-radius: 8px;
+}
+.single-Question-Hover:hover h1{
+ color: white;
+}
+.single-Question-Hover:hover p{
+ color: white;
+}

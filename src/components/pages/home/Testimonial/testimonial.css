@@ -1,0 +1,41 @@
+.testimonial-swiper {
+  margin: 0 auto;
+}
+.testimonila-background {
+  background-color: #000053;
+}
+
+.testimonial-commentSection {
+  background-color: #000053;
+}
+.testimonial-form {
+  margin: 0 auto;
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+.testimonial-form input {
+  background-color: rgb(245, 240, 240);
+  color: black;
+  border-radius: 4px;
+}
+.testimonial-form textarea {
+  background-color: rgb(245, 240, 240);
+  color: black;
+  border-radius: 4px;
+  min-height: 100px;
+}
+.commentbtn1 .comment-submit {
+  border: none;
+  outline: none;
+  color: black;
+  background-color: rgb(255 193 7);
+  border-radius: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+}

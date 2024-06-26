@@ -1,0 +1,30 @@
+.icon-color {
+  color: #c8a962;
+}
+
+.innovative-background1 {
+  background-color: #000053;
+  color: white;
+
+}
+
+.get-start-btn {
+  border: 1px solid white;
+  color: azure;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+  margin-bottom: 50px;
+  
+}
+.get-start-btn:hover {
+  background-color: #13161d;
+  border: 1px solid #13161d;
+  border-radius: 2px;
+  transition: 1s;
+}
+
+.service-icon{
+  height: 50px;
+  width: 40px;
+}

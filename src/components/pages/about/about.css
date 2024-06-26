@@ -1,0 +1,17 @@
+.about-back {
+  background-image: url(../../../assets/about.jpg);
+  background-repeat: no-repeat;
+  background-position: right;
+  background-size: cover;
+  height: 75vh;
+  background-attachment: fixed;  
+  filter: brightness(90%);
+  -webkit-filter: brightness(90%);
+}
+
+
+.about-content{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}

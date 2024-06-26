@@ -1,0 +1,45 @@
+.case-background-img {
+  background-image: url(../../../../assets/service-bg-1-1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.case-evaluation{
+  background-color: #e6e1e1;
+}
+
+.case-mother {
+  margin: 0px auto;
+}
+.onecasecardo {
+  padding: 60px 60px;
+  box-shadow: rgba(0, 0, 0, 0.3) 0px 19px 38px, rgba(0, 0, 0, 0.22) 0px 15px 12px;
+  background-color: white;
+}
+.onecasecard-md {
+  margin-top: 5px;
+}
+.case-btn {
+  border: 2px solid rgb(206, 190, 190);
+  border-radius: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 13px 14.5px;
+  font-weight: bold;
+}
+.case-btn:hover {
+  border: 2px solid #000053;
+  outline: none;
+  border-radius: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  text-transform: uppercase;
+  text-align: center;
+  color: #fff;
+  background-color: #000053;
+  transition: 0.8s;
+}

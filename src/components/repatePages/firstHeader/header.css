@@ -1,0 +1,35 @@
+
+.header-shadow{
+ box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+ margin-bottom: 10px;
+}
+.header-icon {
+  color: #000053;
+}
+.header-p {
+  font-weight: 500;
+}
+.header-p:hover {
+  color: #000053;
+}
+.header-btn {
+  border: none;
+  outline: none;
+  display: inline-block;
+  vertical-align: middle;
+  font-size: 13px;
+  color: #fff;
+  background-color: #000053;
+  border-radius: 2px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 14px;
+  padding: 13px 34.5px;
+  font-weight: bold;
+}
+.header-btn:hover {
+  transition: all 2s ease;
+  background-color: black;
+}

@@ -1,0 +1,16 @@
+.contuct-btn {
+  border: 1px solid white;
+  color: azure;
+  text-transform: uppercase;
+  font-weight: 600;
+  cursor: pointer;
+}
+.contuct-btn:hover {
+  background-color: #13161d;
+  border: 1px solid #13161d;
+  border-radius: 2px;
+  transition: 1s;
+}
+.bgBlue{
+  background-color: #000053;
+}

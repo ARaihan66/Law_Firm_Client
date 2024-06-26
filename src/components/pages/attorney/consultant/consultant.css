@@ -1,0 +1,49 @@
+.testimonial-swiper {
+    margin: 0 auto;
+  }
+  /*.testimonila-background {
+    background-color: #d6cece;
+  }*/
+
+  /*.consultant-background1{
+    background-color: #d6cece;
+  }*/
+  
+  /*.consultant-commentSection {
+    background-color: #000053;
+  }*/
+
+  .consultant-form {
+    margin: 0 auto;
+    display: flex;
+    gap: 10px;
+    flex-direction: column;
+  }
+  .consultant-form input {
+    background-color: rgb(245, 240, 240);
+    color: black;
+    border-radius: 4px;
+  }
+
+  
+  .consultant-form textarea {
+    background-color: rgb(245, 240, 240);
+    color: black;
+    border-radius: 4px;
+    min-height: 100px;
+  }
+  .commentbtn1 .comment-submit {
+    border: none;
+    outline: none;
+    color: black;
+    background-color: rgb(240, 211, 123);
+    border-radius: 2px;
+    display: inline-block;
+    vertical-align: middle;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+  }
+  
